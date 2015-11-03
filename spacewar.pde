@@ -1,5 +1,6 @@
 //Sketch file for spacewar
 
+//A comment for the sake of Git science
 void setup()
 {
   size(500, 500);
